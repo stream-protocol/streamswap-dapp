@@ -2,9 +2,9 @@
 
 ### Cross-chain Swap Infrastructure
 
-### Developments
+#### Developments:
 
-#### The purpose would be to develop an own swap/exchange platform and application for the Stream Protocol to support various blockchain projects.
+##### The purpose would be to develop an own swap/exchange platform and application for the Stream Protocol to support various blockchain projects.
 
 - Application architecture, and technical documentation
 - Aggregator interface
