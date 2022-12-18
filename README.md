@@ -1,6 +1,6 @@
 # StreamSwap
 
-### Cross-chain Swap Infrastructure
+#### Cross-chain Swap Infrastructure
 
 #### Developments:
 
